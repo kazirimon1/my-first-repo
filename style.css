@@ -1,6 +1,9 @@
 h1{
     text-align: center;
+    color: aqua;
+    background-color: #000000;
 }
 h2{
     color: dodgerblue;
+    background-color: black;
 }
